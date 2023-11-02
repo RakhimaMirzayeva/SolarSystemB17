@@ -1,6 +1,6 @@
 package SolarSystem;
 
-public class solarSystemBasic {
+public class solarSystemBasics {
     String Sun;
     String Moon;
     String Stars;
